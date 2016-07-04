@@ -4,7 +4,7 @@
 
 project_path=`(dirname $0)`/../
 development_macro_setting='${inherited} DEVELOPMENT=1'
-develoment_profile="development0504"
+develoment_profile="真机描述文件名称"
 
 app_name="YummyClient"
 scheme="YummyClient"
